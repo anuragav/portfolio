@@ -73,8 +73,8 @@ footer {
     width: 100%;
 }
 figcaption {
-    position: absolute;
-    bottom: 20%;
+    
+    bottom: 50%;
     left: 0;
     color: black;
     padding: 0.5em;
